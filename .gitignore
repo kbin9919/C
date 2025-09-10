@@ -9,3 +9,14 @@ Practice/practice01/x64/Debug/practice01.pdb
 *.exe
 *.vcxproj
 *.sln
+Practice/practice01/pointer/x64/
+*.tlog
+*.filters
+*.user
+*.log
+*.recipe
+*.ilk
+*.obj
+*.txt
+*.idb
+*.pdb
